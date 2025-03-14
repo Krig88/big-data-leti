@@ -1,0 +1,9 @@
+/venv/
+/.idea/
+shell.nix
+.env
+__pycache__
+*.pyc
+/build/
+/sqlite/
+*.db
